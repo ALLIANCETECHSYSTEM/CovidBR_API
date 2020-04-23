@@ -5,7 +5,7 @@
   
   <p align="center">
   <a href="https://alliancetechsystem.com/" target="blank">
-    <img src="assets/ALLIANCE_PSG_1304.png" width="220" alt="Alliance Tech System" />
+    <img src="assets/ALLIANCE_PSG_1304.png" width="380" alt="Alliance Tech System" />
   </a>
   </p>
   <br />
